@@ -1,2 +1,3 @@
 # clicker_gold_aiogram_bot
-Кликер голды aiogram бот
+
+Обычный кликер голды aiogram, есть логи о "выводе" голды.
